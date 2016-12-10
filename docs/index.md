@@ -12,3 +12,8 @@ GitHub pagesが簡単にできるようなった、というのだけど。
 ------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u9s_W8lCrDU" frameborder="0" allowfullscreen></iframe>
+
+リンクは
+---------
+
+[test.html](https://ged1959.github.io/newSite/test.html)
