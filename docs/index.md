@@ -18,4 +18,5 @@ GitHub pagesが簡単にできるようなった、というのだけど。
 リンクは
 ---------
 
-[test.html](https://ged1959.github.io/newSite/test.html)
+- [test.html](https://ged1959.github.io/newSite/test.html)
+- [doc](https://ged1959.github.io/newSite/doc.md)
