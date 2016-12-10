@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet">
+
 This is Document
 ==========
 
